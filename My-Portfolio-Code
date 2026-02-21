@@ -241,7 +241,7 @@
                 aboutTitle: "Обо мне",
                 aboutText: "Я — Разработчик с опытом в создании современных приложений. Специализируюсь на автоматизации, Python-скриптах и веб-технологиях.",
                 contact: "Связаться со мной",
-                birth: "Дата рождения: 28.10.2014"
+                birth: "Дата рождения: 28.10.2007"
             },
             ua: {
                 role: "Python-розробник",
@@ -263,6 +263,9 @@
             document.querySelectorAll('.lang-btn').forEach(btn => btn.classList.remove('active'));
             event.target.classList.add('active');
         }
+    </script>
+</body>
+</html>       }
     </script>
 </body>
 </html>
